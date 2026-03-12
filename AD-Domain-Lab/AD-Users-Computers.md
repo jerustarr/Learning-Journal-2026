@@ -1,6 +1,6 @@
 ## Navigating Active Directory Users and Computers 
 
-### Overview 
+## Overview 
 tbw 
 ## Creating Organisational Units (OU)
 
@@ -25,7 +25,7 @@ tbw
    - Tier2-User 
 4.	Ensure all groups are created as Security → Global groups.
 
-### Creating User
+## Creating User
 Create one user for each tier and place them in the correct OU.
 **General Steps:**
 1.	Navigate to the target OU (e.g., Tier1-Admins or Tier2-Users).
