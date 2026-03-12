@@ -1,5 +1,7 @@
 ## Creating Active Directory Domain Controller (AD/DC)
 
+## Overview 
+
 ### Background Knowledge 
 Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. Active Directory is essentially a database that holds all the relevant information about users and endpoint. This includes servers and storage. AD also provides a suite of directory services that associate those network resources with their network addresses, ensuring that information is available to the entire network. In addition, AD handles security, such as authentication to ensure that only valid users are allowed onto the network, and authorization to ensure that valid users can access only resources to which they're entitled.
 
@@ -7,6 +9,13 @@ A domain controller is a server that runs on the the Active Directory Domain Ser
 
 Think of it as a school or work domain joined computer along with the privileges each user account has! 
 
+### Importance of Active Directories 
+tbw 
+
+### My Learning Takeaway
+tbw 
+
+## General 
 ### Learning Purposes 
 - Setting up windows 11 
 -  Setting up Windows Server 2025
