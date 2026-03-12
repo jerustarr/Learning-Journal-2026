@@ -21,6 +21,8 @@ Think of it as a school or work domain joined computer along with the privileges
 Windows or any machine using **x64** is required for this home lab. Windows Server ISO for **arm64** is not available hence this setup cannot be recreated on any machines using M1/2/3 chips.
 Prior knowledge on the usage and navigation of hypervisors and virtual machines (guide on setting up environment --> AD-Domain-Lab/VM-Setup)
 
+### To start
+Start from **VM-Setup** --> **Server-Setup**
 
 #### References 
 https://www.techtarget.com/searchwindowsserver/definition/Active-Directory-domain-AD-domain
