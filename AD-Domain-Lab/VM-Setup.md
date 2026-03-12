@@ -1,4 +1,4 @@
-# A quick overview on how to set up Virtual Machines! 
+# A quick guide on setting up Virtual Machines! 
 
 #### Note: This guide uses HyperV which is only available on Windows 10 and above Pro/Enterprise versions! If using Windows Home, other hypervisors like such as VirtualBox will be required. Set-up may vary slightly but the basic steps remain the same! 
 
@@ -34,8 +34,33 @@ You can download ISOs directly from the microsoft webpage!
 - Installation Options
     - Check the checkbox: Install an Operating System from a bootable CD/DVD-ROM
         - Check the checkbox: Image file (.iso)
-        - Choose Browse to find and select the guest OS image file required for Windows Server 
-
+        - Choose Browse to find and select the ISO file required for Windows Server
+- Launch Windows Server VM
+    -  Connect to the Windows Server VM
+    -  Follow the steps to set language, keyboard options
+    -  Select Install Server 2025 Datacenter – Desktop Experience
+## Setting up Windows 11 
+Specify Name and Location
+- Rename VM
+- Uncheck the checkbox: Store the virtual machine in a different location
+- Specify Generation
+    - Select Generation 2
+    - This provides support for newer virtualization features, UEFI-based firmware and supported 64-bit guest operating system
+- Assign Memory
+    - Assign at least 8 GB of memory
+    - Check the checkbox: Use Dynamic memory for this virtual machine
+- Configure Networking
+    - Set connection to External Switch
+- Connect Virtual Hard Disk
+    - Create a new virtual hard disk
+- Installation Options
+    - Check the checkbox: Install an Operating System from a bootable CD/DVD-ROM
+        - Check the checkbox: Image file (.iso)
+        - Choose Browse to find and select the ISO file required for Windows 11
+-  Launch Windows Server VM
+    -  Connect to the Windows 11 VM
+    -  Follow the steps to set language, keyboard options
+    -  Select Install Windows 11 Pro
 
 
 
