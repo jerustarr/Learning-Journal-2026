@@ -10,10 +10,11 @@ A domain controller is a server that runs on the the Active Directory Domain Ser
 Think of it as a school or work domain joined computer along with the privileges each user account has! 
 
 ### Importance of Active Directories 
-tbw 
+Active Directories are extremely important when managing authentication and authorization across a network. It allows administrators to create and manage objects, enable access rights and apply security policies throughout a domain or forest
 
 ### My Learning Takeaway
-tbw 
+When setting up an AD/DC I quickly realised that active directories are the base for managing users, security and devices across both small and large enterprise networks. It ensures that only approved users have access to sensitive company resources. 
+I also strengthened my skills on setting up VMs specifically in HyperV. 
 
 ## General 
 ### Learning Purposes 
