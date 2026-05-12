@@ -21,7 +21,7 @@ To successfully join a workstation to the domain, both the Domain Controller and
     - Ping Hostname
     - Ping Fullt Qualified Domain Name (FQDN)
  
-### JOINING THE DOMAIN 
+### Joining the Domain
 #### Ensure ping connectivity works 
 - Navigate to settings → Accounts → Add a work or school account
 - Click connect
